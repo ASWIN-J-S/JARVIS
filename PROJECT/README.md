@@ -3,8 +3,6 @@
 ## Overview
 Jarvis AI is an intelligent voice assistant designed to help users with a variety of tasks through voice commands. It leverages advanced natural language processing (NLP) and machine learning techniques to understand and respond to user queries in a conversational manner.
 
-![Jarvis AI Logo](link-to-logo-image)
-
 ## Features
 - **Voice Recognition:** Understands and processes voice commands accurately.
 - **Natural Language Understanding:** Uses NLP to comprehend user intent.

@@ -1,0 +1,15 @@
+<Transitions>
+    <Transition>
+        <Name>Zoom In/Zoom Out</Name>
+        <Duration>1.5</Duration> <!-- Duration of the transition in seconds -->
+        <Easing>InOut</Easing> <!-- Easing curve for smooth acceleration/deceleration -->
+        <ZoomIn>
+            <Scale>1.0</Scale> <!-- Initial scale -->
+            <TargetScale>1.5</TargetScale> <!-- Target scale for zooming in -->
+        </ZoomIn>
+        <ZoomOut>
+            <Scale>1.5</Scale> <!-- Initial scale -->
+            <TargetScale>1.0</TargetScale> <!-- Target scale for zooming out -->
+        </ZoomOut>
+    </Transition>
+</Transitions>
